@@ -1,0 +1,10 @@
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\bin\Debug\CustomerPaymentsHistory.DTO.dll
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\bin\Debug\CustomerPaymentsHistory.DTO.pdb
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\bin\Debug\CustomerPaymentsHistory.DTO.xml
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\obj\Debug\CustomerPaymentsHistory.DTO.Resources.resources
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\obj\Debug\CustomerPaymentsHistory.DTO.vbproj.GenerateResource.cache
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\obj\Debug\CustomerPaymentsHistory.DTO.vbproj.CoreCompileInputs.cache
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\obj\Debug\CustomerPaymentsHistory.DTO.dll
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\obj\Debug\CustomerPaymentsHistory.DTO.xml
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\obj\Debug\CustomerPaymentsHistory.DTO.pdb
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.DTO\obj\Debug\CustomerPaymentsHistory.DTO.vbprojAssemblyReference.cache

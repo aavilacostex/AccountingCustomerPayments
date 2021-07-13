@@ -1,0 +1,10 @@
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\bin\Debug\CustomerPaymentsHistory.BL.dll
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\bin\Debug\CustomerPaymentsHistory.BL.pdb
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\bin\Debug\CustomerPaymentsHistory.BL.xml
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\obj\Debug\CustomerPaymentsHistory.BL.Resources.resources
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\obj\Debug\CustomerPaymentsHistory.BL.vbproj.GenerateResource.cache
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\obj\Debug\CustomerPaymentsHistory.BL.vbproj.CoreCompileInputs.cache
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\obj\Debug\CustomerPaymentsHistory.BL.dll
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\obj\Debug\CustomerPaymentsHistory.BL.xml
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\obj\Debug\CustomerPaymentsHistory.BL.pdb
+C:\Users\aavila\source\repos\CustomerPaymentsHistory\CustomerPaymentsHistory.BL\obj\Debug\CustomerPaymentsHistory.BL.vbprojAssemblyReference.cache
